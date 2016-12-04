@@ -4,7 +4,7 @@
 
 ## Mad Science
 
-- {[jsfuck](https://github.com/aemkei/jsfuck)}<br>
+- {[jsfuck](https://github.com/aemkei/jsfuck)} [[jsfuck.com](http://jsfuck.com)]<br>
 *Write any JavaScript with the six characters `[]()!+`.*<br><br>by Martin Kleppe ([@aemkei](http://twitter.com/aemkei))
 
 ## Linting
